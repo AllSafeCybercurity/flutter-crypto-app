@@ -1,5 +1,5 @@
 
-# Flutter Crypto APP
+# Flutter Crypto APP Test
 Complete Flutter Application with Riverpod & Freezed + Dio for API REST.
 
 [![test](https://github.com/salvadordeveloper/flutter-crypto-app/actions/workflows/tests.yml/badge.svg)](https://github.com/salvadordeveloper/flutter-crypto-app/actions/workflows/tests.yml)
